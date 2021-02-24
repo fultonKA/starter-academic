@@ -29,4 +29,4 @@ Kara Fulton is a postdoctoral researcher in neuroscience in the laboratory of Dr
 
 She is devoted to mentorship and is committed to training students from under-represented backgrounds in STEAM. She is active with Skype a Scientist and serves as an advisor to undergraduates and high school students interested in a career in Neuroscience through the Simply Neuroscience Advising Program. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/fulton-cv-2021_v3.pdf" "newtab" >}}resumé{{< /staticref >}}.
