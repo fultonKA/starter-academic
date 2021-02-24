@@ -1,6 +1,7 @@
 ---
 title: Mixed model and estimating equation approaches for zero inflation in
   clustered binary response data with application to a dating violence study
+subtitle: mixed model
 publication_types:
   - "2"
 authors:
