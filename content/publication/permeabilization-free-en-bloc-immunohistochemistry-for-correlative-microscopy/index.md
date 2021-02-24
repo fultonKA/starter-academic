@@ -18,12 +18,9 @@ url_pdf: ""
 publication_types:
   - "3"
 authors:
-  - Fulton
-  - Kara;Briggman
-  - Kevin
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Kara Fulton
+  - Kevin Briggman
+author_notes: []
 publication: In *bioRxiv*
 summary: ""
 url_dataset: ""
@@ -43,7 +40,7 @@ image:
   preview_only: false
 date: 2021-02-24T18:23:26.951Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
