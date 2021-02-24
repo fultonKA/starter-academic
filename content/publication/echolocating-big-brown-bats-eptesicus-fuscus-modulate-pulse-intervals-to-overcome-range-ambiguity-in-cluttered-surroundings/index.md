@@ -45,6 +45,7 @@ url_source: ""
 url_video: ""
 title: Echolocating big brown bats, Eptesicus fuscus, modulate pulse intervals
   to overcome range ambiguity in cluttered surroundings
+subtitle: pulse intervals
 doi: https://doi.org/10.3389/fnbeh.2016.00125
 featured: false
 tags: []
