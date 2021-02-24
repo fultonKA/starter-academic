@@ -1,11 +1,14 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: ABOUT-ME
 headless: true
 weight: 20
 title: Biography
-active: true
-author: admin
+design:
+  background:
+    image: /static/media/dsc00624.jpg
 ---
 Kara Fulton is a neuroscientist and postdoctoral fellow at Max Planck-affiliated Research Center [caesar](caesar.de) in Bonn, Germany. She holds a Ph.D. in neuroscience from Brown University and a bachelors degree in mathematics from the University of Michigan, Ann Arbor. 
 
