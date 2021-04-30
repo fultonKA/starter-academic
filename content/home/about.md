@@ -8,7 +8,7 @@ weight: 10
 title: Biography
 design:
   background:
-    image: /static/media/dsc00624.jpg
+    image: ""
 ---
 ![](/static/media/dsc00624.jpg)
 
