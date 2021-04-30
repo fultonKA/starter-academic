@@ -1,8 +1,8 @@
 ---
-widget: pages
+widget: widget_page
 active: true
 author: admin
-widget_id: ABOUT-ME
+widget_id: about
 headless: true
 weight: 10
 title: Biography
