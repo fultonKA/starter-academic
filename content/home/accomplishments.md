@@ -1,5 +1,5 @@
 ---
-widget: awards
+widget: accomplishments
 active: true
 date_format: Jan 2006
 item:
@@ -27,7 +27,7 @@ item:
     organization_url: https://www.datacamp.com
     title: "Object-Oriented Programming in R: S3 and R6 Course"
     url: ""
-widget_id: awards
+widget_id: accomplishments
 headless: true
 weight: 30
 title: Fellowships & Awards
