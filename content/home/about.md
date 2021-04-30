@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: pages
 active: true
 author: admin
 widget_id: ABOUT-ME
