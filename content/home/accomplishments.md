@@ -1,5 +1,5 @@
 ---
-widget: accomplishments
+widget: awards
 active: true
 date_format: Jan 2006
 item:
