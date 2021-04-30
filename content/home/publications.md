@@ -1,6 +1,6 @@
 ---
 widget: publications
-widget_id: REC-PUBS
+widget_id: publications
 headless: true
 weight: 50
 title: Recent Publications
