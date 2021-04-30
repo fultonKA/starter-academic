@@ -33,12 +33,12 @@ weight: 30
 title: Fellowships & Awards
 subtitle: null
 ---
-Nominated for Joukowsky Outstanding Dissertation Prize (2021)
-International Society of Olfaction and Taste (ISOT) Don Tucker Memorial Award (2020)
-Summer research mentor award, NIH (2017)
-Travel award to the AChemS Conference (2017)
-First place for poster presentation at NINDS Intramural Retreat, NIH (2015)
-Pre-doctoral Intramural Research Training Award, NIH (2013—2020)
-Post-baccalaureate Intramural Research Training Award, NIH (2011—2013)
-Research Experience for Undergraduates Fellowship, National Science Foundation (2010)
-Dominic Tomasi Scholarship Fund, University of Michigan Alumni Association (2007)
+* Nominated for Joukowsky Outstanding Dissertation Prize (2021)
+* International Society of Olfaction and Taste (ISOT) Don Tucker Memorial Award (2020)
+* Summer research mentor award, NIH (2017)
+* Travel award to the AChemS Conference (2017)
+* First place for poster presentation at NINDS Intramural Retreat, NIH (2015)
+* Pre-doctoral Intramural Research Training Award, NIH (2013—2020)
+* Post-baccalaureate Intramural Research Training Award, NIH (2011—2013)
+* Research Experience for Undergraduates Fellowship, National Science Foundation (2010)
+* Dominic Tomasi Scholarship Fund, University of Michigan Alumni Association (2007)
