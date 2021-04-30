@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: publications
 widget_id: REC-PUBS
 headless: true
 weight: 50
