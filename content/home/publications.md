@@ -2,7 +2,7 @@
 widget: pages
 widget_id: REC-PUBS
 headless: true
-weight: 20
+weight: 50
 title: Recent Publications
 subtitle: ""
 active: true
