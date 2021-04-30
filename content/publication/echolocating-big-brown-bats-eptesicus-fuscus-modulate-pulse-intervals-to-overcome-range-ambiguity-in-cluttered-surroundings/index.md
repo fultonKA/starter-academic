@@ -49,8 +49,7 @@ subtitle: pulse intervals
 doi: https://doi.org/10.3389/fnbeh.2016.00125
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
