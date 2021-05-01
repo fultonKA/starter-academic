@@ -1,10 +1,10 @@
 ---
 title: Kara Fulton
 role: Postdoctoral Researcher
+avatar_filename: avatar.jpg
 bio: My research interests include sensory neuroscience, correlative microscopy,
   and mathematical modeling of neural circuits.
-interests:
-  - Neuroscience
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,5 +32,3 @@ As a postdoctoral fellow in the laboratory of [Dr. Kevin Briggman](https://www.c
 She is devoted to mentorship and is committed to training students from under-represented backgrounds in STEM. She is active with Skype a Scientist and serves as an advisor to undergraduates and high school students interested in a career in Neuroscience through the Simply Neuroscience Advising Program. 
 
 Dr. Fulton is an incoming postdoctoral fellow in the laboratory of [Dr. Bob Datta](datta.hms.harvard.edu) at Harvard Medical School in 2021.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
