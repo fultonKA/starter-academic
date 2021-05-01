@@ -29,7 +29,7 @@ item:
     url: ""
 widget_id: accomplishments
 headless: true
-weight: 550
+weight: 50
 title: Fellowships & Awards
 subtitle: null
 ---
