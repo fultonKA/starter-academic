@@ -21,7 +21,7 @@ authors:
   - Kara Fulton
   - Kevin Briggman
 author_notes: []
-publication: In *bioRxiv*
+publication: In *eLife*
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -30,7 +30,7 @@ url_source: ""
 url_video: ""
 title: Permeabilization-free en bloc immunohistochemistry for correlative microscopy
 subtitle: immunohistochemistry
-doi: https://doi.org/10.1101/2020.10.07.327734
+doi: 10.7554/eLife.63392
 featured: true
 tags: []
 projects:
