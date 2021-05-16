@@ -10,7 +10,7 @@ title = "Kara A. Fulton, PhD"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://kara-fulton.netlify.app/"
+baseurl = "https://karafulton.netlify.app/"
 # baseurl = "https://karafulton.com/"
 
 # Enter a copyright notice to display in the site footer.
