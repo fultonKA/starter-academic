@@ -29,7 +29,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Permeabilization-free en bloc immunohistochemistry for correlative microscopy
-subtitle: immunohistochemistry
+subtitle: ""
 doi: 10.7554/eLife.63392
 featured: true
 tags: []
