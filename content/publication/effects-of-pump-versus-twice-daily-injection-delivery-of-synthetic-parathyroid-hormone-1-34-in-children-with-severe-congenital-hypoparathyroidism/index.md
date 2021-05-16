@@ -1,7 +1,7 @@
 ---
 title: Effects of pump versus twice-daily injection delivery of synthetic
   parathyroid hormone 1-34 in children with severe congenital hypoparathyroidism
-subtitle: hypoparathyroidism
+subtitle: ""
 publication_types:
   - "2"
 authors:
