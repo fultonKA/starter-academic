@@ -21,7 +21,7 @@ authors:
   - Kara Fulton
   - Kevin Briggman
 author_notes: []
-publication: In *eLife*
+publication: *eLife*
 summary: ""
 url_dataset: ""
 url_project: ""
