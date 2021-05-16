@@ -16,7 +16,7 @@ abstract: A dense reconstruction of neuronal synaptic connectivity typically
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Kara Fulton
   - Kevin Briggman
