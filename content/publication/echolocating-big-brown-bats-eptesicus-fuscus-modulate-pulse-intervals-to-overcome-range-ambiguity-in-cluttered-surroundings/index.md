@@ -36,11 +36,11 @@ authors:
   - Ikuo Matsuo
   - James A Simmons
 author_notes: []
-publication: In *Frontiers of Behavioral Neuroscience*
+publication: *Frontiers of Behavioral Neuroscience*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *Front. Behav. Neurosci*
+publication_short: *Front. Behav. Neurosci*
 url_source: ""
 url_video: ""
 title: Echolocating big brown bats, Eptesicus fuscus, modulate pulse intervals
