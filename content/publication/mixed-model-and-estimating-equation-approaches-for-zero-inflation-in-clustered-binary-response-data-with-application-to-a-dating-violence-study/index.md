@@ -13,8 +13,8 @@ author_notes:
   - Equal Contribution
   - Equal Contribution
 doi: 10.1214/14-AOAS791
-publication: *Annals of Applied Statistics*
-publication_short: *Ann Appl Stat*
+publication: In *Annals of Applied Statistics*
+publication_short: In *Ann Appl Stat*
 abstract: The NEXT Generation Health study investigates the dating violence of
   adolescents using a survey questionnaire. Each student is asked to affirm or
   deny multiple instances of violence in his/her dating relationship. There is,
