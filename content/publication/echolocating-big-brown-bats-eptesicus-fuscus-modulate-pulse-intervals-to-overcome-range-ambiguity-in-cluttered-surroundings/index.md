@@ -1,4 +1,16 @@
 ---
+title: Echolocating big brown bats, Eptesicus fuscus, modulate pulse intervals
+  to overcome range ambiguity in cluttered surroundings
+publication_types:
+  - "2"
+authors:
+  - Alyssa R Wheeler
+  - Kara A Fulton
+  - Jason E Gaudette
+  - Ryan A Simmons
+  - Ikuo Matsuo
+  - James A Simmons
+publication_short: In *Front. Behav. Neurosci*
 abstract: Big brown bats (Eptesicus fuscus) emit trains of brief, wideband
   frequency-modulated (FM) echolocation sounds and use echoes of these sounds to
   orient, find insects, and guide flight through vegetation. They are observed
@@ -24,39 +36,29 @@ abstract: Big brown bats (Eptesicus fuscus) emit trains of brief, wideband
   occurrence of specific IPI patterns were dependent upon clutter, which
   suggests that sonar sound grouping may be an adaptive strategy for coping with
   pulse-echo ambiguity in cluttered surroundings.
-slides: ""
-url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - Alyssa R Wheeler
-  - Kara A Fulton
-  - Jason E Gaudette
-  - Ryan A Simmons
-  - Ikuo Matsuo
-  - James A Simmons
-author_notes: []
-publication: *Frontiers of Behavioral Neuroscience*
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: *Front. Behav. Neurosci*
-url_source: ""
-url_video: ""
-title: Echolocating big brown bats, Eptesicus fuscus, modulate pulse intervals
-  to overcome range ambiguity in cluttered surroundings
-subtitle: ""
-doi: https://doi.org/10.3389/fnbeh.2016.00125
+draft: false
 featured: false
 tags: []
-projects: []
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.3389/fnbeh.2016.00125
+publication: *Frontiers of Behavioral Neuroscience*
+projects: []
 date: 2016-06-22T17:56:39.228Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+
+
