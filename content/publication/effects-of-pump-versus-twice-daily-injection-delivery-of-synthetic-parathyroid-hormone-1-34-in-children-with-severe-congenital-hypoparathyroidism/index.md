@@ -10,7 +10,7 @@ authors:
   - Paul S Albert
   - Gordon B Cutler Jr.
 doi: https://doi.org/10.1016/j.jpeds.2014.04.060
-publication: *The Journal of Pediatrics*
+publication: In *The Journal of Pediatrics*
 abstract: >-
   Objective
 
