@@ -2,7 +2,7 @@
 widget: about
 active: true
 author: admin
-widget_id: about
+# widget_id: about
 headless: true
 weight: 10
 title: ""
