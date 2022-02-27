@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "kara.fulton@caesar.de"
+email = "kara_fulton@hms.harvard.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ludwig-Erhard-Allee 2", city = "Bonn", region = "NRW", postcode = "53175", country = "Germany", country_code = "DE"}
+address = {street = "200 Longwood Avenue", city = "Boston", region = "MA", postcode = "02115", country = "United States", country_code = "USA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "50.7050389", longitude = "7.1506533"}
+coordinates = {latitude = "42.33622153390756", longitude = "-71.10235161934438"} 
 
 # Directions for visitors to locate you.
 directions = ""
