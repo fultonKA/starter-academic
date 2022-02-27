@@ -52,7 +52,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: https://doi.org/10.3389/fnbeh.2016.00125
-publication: *Frontiers of Behavioral Neuroscience*
+publication: In *Frontiers of Behavioral Neuroscience*
 projects: []
 date: 2016-06-22T17:56:39.228Z
 url_slides: ""
