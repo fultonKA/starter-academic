@@ -33,6 +33,7 @@ weight: 30
 title: Fellowships & Awards
 subtitle: null
 ---
+* Y. Eva Tan Postdoctoral Fellowship (2022-2024)
 * Nominated for Joukowsky Outstanding Dissertation Prize (2021)
 * International Society of Olfaction and Taste (ISOT) Don Tucker Memorial Award (2020)
 * Summer research mentor award, NIH (2017)
